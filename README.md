@@ -11,6 +11,14 @@
 
 - ⚡ Fun "fact" **I like README badges**
 
+<h3 align="middle">Pinned Projects</h3>
+
+- [ClaimDoneRemover](https://github.com/TheodoreHua/ClaimDoneRemover); a program to remove certain comments from a user's Reddit profile after a certain trigger. Designed primarily for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit) users.
+- [TorInboxManager](https://github.com/TheodoreHua/AlreadyClaimedNotifier); a program to manage your inbox while transcribing on Reddit, Designed primarily for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit) users. (previously known as AlreadyClaimedRemover, is currently undergoing a major rewrite)
+- [MonopolyTracker](https://github.com/TheodoreHua/MonopolyTracker); a program to keep track of a monopoly game's banking, housing, and property system.
+- [Website](https://github.com/TheodoreHua/website); my own personal website which includes various applets, scripts, and utilities to make my life easier.
+- [MaintenanceLevels](https://github.com/TheodoreHua/MaintenanceLevels); simple document/badge list to show various levels of maintenance on my projects.
+
 <h3 align="left">Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theodorehua&show_icons=true&theme=onedark&locale=en&layout=compact" alt="theodorehua" /></p>
