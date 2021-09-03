@@ -37,7 +37,7 @@ A simple document/badge list to show various levels of maintenance on my project
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theodorehua&show_icons=true&theme=onedark&locale=en" alt="theodorehua" /></p>
 
-<h3 align="left">Support Me</h3>
+<h3 align="left">Donate</h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U362LDL)
 
