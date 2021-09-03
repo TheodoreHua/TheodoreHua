@@ -31,6 +31,8 @@ A simple document/badge list to show various levels of maintenance on my project
 
 <h3 align="left">Stats</h3>
 
+[![CodeStats](https://img.shields.io/badge/-CodeStats.NET-000000?style=for-the-badge)](https://codestats.net/users/TheodoreHua)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theodorehua&show_icons=true&theme=onedark&locale=en&layout=compact" alt="theodorehua" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theodorehua&show_icons=true&theme=onedark&locale=en" alt="theodorehua" /></p>
