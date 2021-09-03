@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/TheodoreHua](https://www.github.com/TheodoreHua)
 
-- 💬 Ask me about **Python, Tkinter, Flask, discord.py**
+- 💬 Ask me about **Python, Tkinter, Flask, PRAW, discord.py**
 
 - 📫 How to reach me **contact@theodorehua.dev**
 
