@@ -60,6 +60,7 @@ A simple document/badge list to show various levels of maintenance on my project
 <h3 align="left">Operating System</h3>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -127,6 +128,7 @@ A simple document/badge list to show various levels of maintenance on my project
 - to [shields.io](https://shields.io/) for badges in all of my projects
 - to [Read the Docs](https://readthedocs.org/) for hosting the documentation for many of my projects
 - to [Python Anywhere](https://www.pythonanywhere.com/) for simple and amazing web hosting
+- to [Vultr](https://www.vultr.com/) for great VPSes
 - to [Cloudflare](https://www.cloudflare.com) DNS service and DDoS mitigation
 - to [AnonAddy](https://anonaddy.com/) for ~~making me less paranoid~~ providing email (alias) services
 - to you, for reading this blurb
