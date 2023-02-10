@@ -12,9 +12,6 @@
 #### [ClaimDoneRemover](https://github.com/TheodoreHua/ClaimDoneRemover)
 A program to remove certain comments from a user's Reddit profile after a certain trigger. Designed primarily for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit) users.
 
-#### [TorInboxManager](https://github.com/TheodoreHua/AlreadyClaimedNotifier)
-A program to manage your inbox while transcribing on Reddit, Designed primarily for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit) users. (previously known as AlreadyClaimedRemover, is currently undergoing a major rewrite)
-
 #### [MonopolyTracker](https://github.com/TheodoreHua/MonopolyTracker)
 A program to keep track of a monopoly game's banking, housing, and property system.
 
@@ -30,24 +27,21 @@ A simple document/badge list to show various levels of maintenance on my project
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theodorehua&show_icons=true&theme=onedark&locale=en" alt="theodorehua" /></p>
 
-<h3 align="left">Donate</h3>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U362LDL)
-
 <h3 align="left">Programming Languages</hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h3 align="left">IDEs</h3>
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 <h3 align="left">Operating System</h3>
@@ -58,20 +52,9 @@ A simple document/badge list to show various levels of maintenance on my project
 
 <h3 align="left">Frameworks</h3>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-
-<h3 align="left">Databases</h3>
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h3 align="left">Machine Learning & Data</h3>
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <h3 align="left">Thanks</h3>
 
