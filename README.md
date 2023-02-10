@@ -62,6 +62,3 @@ A simple document/badge list to show various levels of maintenance on my project
 - to [Rahul Jain](https://github.com/rahuldkjain) for an initial base README
 - to [shields.io](https://shields.io/) for badges in all of my projects
 - to [Read the Docs](https://readthedocs.org/) for hosting the documentation for many of my projects
-- to [Vultr](https://www.vultr.com/) for great VPSes
-- to [Cloudflare](https://www.cloudflare.com) DNS service and DDoS mitigation
-- to [AnonAddy](https://anonaddy.com/) for ~~making me less paranoid~~ providing email (alias) services
