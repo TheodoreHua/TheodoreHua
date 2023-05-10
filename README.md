@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theodore Hua</h1>
 <h3 align="center">A bored programming student from Canada</h3>
 
-- 🌱 I’m currently learning **C++, Java, TensorFlow, Qt5**
+- 🌱 I’m currently learning **C++, Java, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/TheodoreHua](https://www.github.com/TheodoreHua)
 
