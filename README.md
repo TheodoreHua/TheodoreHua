@@ -23,7 +23,7 @@ A simple document/badge list to show various levels of maintenance on my project
 
 [![CodeStats](https://img.shields.io/badge/-CodeStats.NET-000000?style=for-the-badge)](https://codestats.net/users/TheodoreHua)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theodorehua&show_icons=true&theme=onedark&locale=en&layout=compact" alt="theodorehua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theodorehua&show_icons=true&theme=onedark&locale=en&layout=compact" alt="theodorehua" /></p>  
 
 <h3 align="left">Thanks</h3>
 
