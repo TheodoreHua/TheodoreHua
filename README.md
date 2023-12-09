@@ -12,12 +12,8 @@
 #### [ClaimDoneRemover](https://github.com/TheodoreHua/ClaimDoneRemover)
 A program to remove certain comments from a user's Reddit profile after a certain trigger. Designed primarily for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit) users.
 
-#### [MonopolyTracker](https://github.com/TheodoreHua/MonopolyTracker)
-A program to keep track of a monopoly game's banking, housing, and property system.
-
-#### [MaintenanceLevels](https://github.com/TheodoreHua/MaintenanceLevels)
-
-A simple document/badge list to show various levels of maintenance on my projects.
+#### [AdventOfCode](https://github.com/TheodoreHua/AdventOfCode)
+Solutions to the Advent of Code, an event where two-part programming puzzles are released every day of the advent calendar. I'll often use this event as an opportunity to learn algorithms, techniques, or competitive programming techniques.
 
 <h3 align="left">Stats</h3>
 
