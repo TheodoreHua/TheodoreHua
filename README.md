@@ -13,7 +13,7 @@
 A program to remove certain comments from a user's Reddit profile after a certain trigger. Designed primarily for [r/TranscribersOfReddit](https://www.reddit.com/r/TranscribersOfReddit) users.
 
 #### [AdventOfCode](https://github.com/TheodoreHua/AdventOfCode)
-Solutions to the Advent of Code, an event where two-part programming puzzles are released every day of the advent calendar. I'll often use this event as an opportunity to learn algorithms, techniques, or competitive programming techniques.
+Solutions to the Advent of Code, an event where two-part programming puzzles are released every day of the advent calendar. I'll often use this event as an opportunity to learn algorithms, techniques, or competitive programming.
 
 <h3 align="left">Stats</h3>
 
