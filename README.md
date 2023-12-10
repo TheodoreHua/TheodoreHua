@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Rust, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/TheodoreHua](https://www.github.com/TheodoreHua)
-
-- 📫 How to reach me **contact@theodorehua.dev**
+- 📫 You can reach me at **contact@theodorehua.dev**
 
 <h3 align="middle">Pinned Projects</h3>
 
